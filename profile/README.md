@@ -9,7 +9,10 @@
 - [AusExOutputPlugin](https://github.com/ArduinoSensor/AusExOutputPlugin) : 上記APIで取得したデータをJSONやsyslog形式などに変換するライブラリ
 
 
-## 環境系センサデバイスドライバ
+## センサ用デバイスドライバ
+
+以下は，デバイスドライバと対応するセンサモジュールのリスト．
+
 ### 温度,湿度,気圧
 
 ### 温度,湿度
